@@ -57,7 +57,7 @@ To install the demonstration on your local machine you need to clone the git rep
     * Run `docker-compose --version`, which should return something like: `docker-compose version 1.22.0, build f46880fe`
     * Your version numbers should be the same or higher.
 * Open a terminal session and navigate to where you want to install the source code.
-* Run the command: `git clone https://gitlab.com/kukkig/indy-demo.git`
+* Run the command: `git clone https://github.com/kukkig/indy-demo.git`
   * That will download the repository containing the source code onto your system.
 * Navigate to the location of the code by running the command:
   * `cd indy-demo/indy-material/nodejs`
